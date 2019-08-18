@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[치치스페이스]]></title><description><![CDATA[치치스페이스]]></description><link>https://chichi.space/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 16 Aug 2019 12:41:04 GMT</lastBuildDate><item><title><![CDATA[플러터 풀로 털기]]></title><description><![CDATA[Flutter가 뭔가요? Flutter(플러터로 읽습니다.)는 구글에서 만든 멀티플랫폼 앱 프레임워크입니다. 멀티플랫폼 앱을 만들 수 있는 방법에는 고전적인 Apache Cordova(JS)부터, 마이크로소프트의 Xamarin(C…]]></description><link>https://chichi.space//post/플러터-풀로-털기/</link><guid isPermaLink="false">https://chichi.space//post/플러터-풀로-털기/</guid><pubDate>Fri, 16 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Flutter가 뭔가요?&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[치치스페이스]]></title><description><![CDATA[치치스페이스]]></description><link>https://chichi.space/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 18 Aug 2019 06:56:58 GMT</lastBuildDate><item><title><![CDATA[플러터 풀로 털기]]></title><description><![CDATA[Flutter가 뭔가요? Flutter(플러터로 읽습니다.)는 구글에서 만든 멀티플랫폼 앱 프레임워크입니다. 멀티플랫폼 앱을 만들 수 있는 방법에는 고전적인 Apache Cordova(JS)부터, 마이크로소프트의 Xamarin(C…]]></description><link>https://chichi.space//post/플러터-풀로-털기/</link><guid isPermaLink="false">https://chichi.space//post/플러터-풀로-털기/</guid><pubDate>Fri, 16 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Flutter가 뭔가요?&lt;/h1&gt;
 &lt;p&gt;Flutter(플러터로 읽습니다.)는 구글에서 만든 멀티플랫폼 앱 프레임워크입니다. 멀티플랫폼 앱을 만들 수 있는 방법에는 고전적인 Apache Cordova(JS)부터, 마이크로소프트의 Xamarin(C#), 페이스북의 React Native(JS)까지 다양합니다.&lt;/p&gt;
 &lt;h2&gt;타 프레임워크와 다른 점&lt;/h2&gt;
 &lt;p&gt;플러터의 장점은 네이티브 UI를 직접 그린다는 데 있습니다. 먼저 다른 프레임워크를 간단히 소개하자면:&lt;/p&gt;
@@ -18,7 +18,7 @@
 &lt;h1&gt;플러터로 앱 만들기&lt;/h1&gt;
 &lt;p&gt;힐링페이퍼에선 개발자에게 정기적으로 개발 능력을 향상할 수 있는 시간을 제공합니다. 주어진 일주일 동안 플러터로 사내에서 사용하기 위한 앱을 만들었습니다.&lt;/p&gt;
 &lt;video autoplay loop muted playsinline class=&quot;center&quot; width=&quot;100%&quot;&gt;
-  &lt;source src=&quot;/assets/images/chichi/FlutterFull/20190611_203633_2.mp4&quot; type=&quot;video/mp4&quot;&gt;
+  &lt;source src=&quot;https://healingpaper.github.io/assets/images/chichi/FlutterFull/20190611_203633_2.mp4&quot; type=&quot;video/mp4&quot;&gt;
 &lt;/video&gt;
 &lt;h2&gt;어떤 앱인가요&lt;/h2&gt;
 &lt;ol&gt;
@@ -309,7 +309,7 @@ admin&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span clas
 &lt;li&gt;말을 꺼낸 사람의 기가 꺾이지 않아야 합니다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;마치며&lt;/h1&gt;
-&lt;p&gt;극도로 솔직한 사람들은 직설적인 피드백과 진실을 받아들일 수 있습니다. 당신도 그럴 수 있습니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[어딘가 모자란 아이]]></title><description><![CDATA[시작하며 먼저 저는 마이크로소프트의 큰 팬임을 알립니다. 어느정도냐면, 약 2년정도 을 썼습니다. 윈도우폰은 마이크로소프트의 모바일 운영체제입니다. iOS나 Android…]]></description><link>https://chichi.space//post/어딘가-모자란-아이/</link><guid isPermaLink="false">https://chichi.space//post/어딘가-모자란-아이/</guid><pubDate>Sat, 20 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;시작하며&lt;/h1&gt;
+&lt;p&gt;극도로 솔직한 사람들은 직설적인 피드백과 진실을 받아들일 수 있습니다. 당신도 그럴 수 있습니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[어딘가 모자라는 성공작]]></title><description><![CDATA[시작하며 먼저 저는 마이크로소프트의 큰 팬임을 알립니다. 어느정도냐면, 약 2년정도 을 썼습니다. 윈도우폰은 마이크로소프트의 모바일 운영체제입니다. iOS나 Android…]]></description><link>https://chichi.space//post/어딘가-모자라는-성공작/</link><guid isPermaLink="false">https://chichi.space//post/어딘가-모자라는-성공작/</guid><pubDate>Sat, 20 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;시작하며&lt;/h1&gt;
 &lt;p&gt;먼저 저는 마이크로소프트의 큰 팬임을 알립니다. 어느정도냐면, 약 2년정도 &lt;code class=&quot;language-text&quot;&gt;윈도우폰&lt;/code&gt;을 썼습니다. 윈도우폰은 마이크로소프트의 모바일 운영체제입니다. iOS나 Android같은 거에요. 안타깝지만 블리자드가 히오스 버리듯 마이크로소프트도 윈도우폰을 버렸습니다. 노키아가 좀 측은하네요.&lt;/p&gt;
 &lt;h2&gt;서피스북&lt;/h2&gt;
 &lt;p&gt;2015년 부터 약 3년간 서피스북과 서피스북2를 메인 랩탑으로 썼습니다. 2 in 1 랩탑 중 가장 높은 완성도를 가지고 있고요. 맥북프로 이상의 완성도를 갖고 있다는 생각엔 변함이 없습니다.&lt;/p&gt;
