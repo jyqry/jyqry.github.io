@@ -52,7 +52,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/404.html/page-data.json",
-    "revision": "852430abba4faa5a5522f2d1471780d3"
+    "revision": "229bcafbcb3e75ce0f3a1ca9782eb581"
   },
   {
     "url": "manifest.webmanifest",
