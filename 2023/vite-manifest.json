@@ -16,17 +16,11 @@
     "src": "src/routes/+layout.css"
   },
   "src/routes/+page.css": {
-    "file": "_app/immutable/assets/_page-93ad8583.css",
+    "file": "_app/immutable/assets/_page-be37dfc0.css",
     "src": "src/routes/+page.css"
   },
-  ".svelte-kit/generated/nodes/2.js": {
-    "file": "_app/immutable/chunks/2-a29cd75c.js",
-    "src": ".svelte-kit/generated/nodes/2.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "__page-7e4796dc.js",
-      "src/routes/+page.svelte"
-    ]
+  "__page-7e4796dc.js": {
+    "file": "_app/immutable/chunks/_page-7e4796dc.js"
   },
   "src/routes/+layout.ts": {
     "file": "_app/immutable/modules/pages/_layout.ts-5612100c.js",
@@ -34,6 +28,15 @@
     "isEntry": true,
     "imports": [
       "__layout-79cb23d1.js"
+    ]
+  },
+  ".svelte-kit/generated/nodes/2.js": {
+    "file": "_app/immutable/chunks/2-6a0d6da3.js",
+    "src": ".svelte-kit/generated/nodes/2.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "__page-7e4796dc.js",
+      "src/routes/+page.svelte"
     ]
   },
   ".svelte-kit/generated/nodes/0.js": {
@@ -64,8 +67,11 @@
   "__layout-79cb23d1.js": {
     "file": "_app/immutable/chunks/_layout-79cb23d1.js"
   },
-  "__page-7e4796dc.js": {
-    "file": "_app/immutable/chunks/_page-7e4796dc.js"
+  "_singletons-6cec3972.js": {
+    "file": "_app/immutable/chunks/singletons-6cec3972.js",
+    "imports": [
+      "_index-3546e6d8.js"
+    ]
   },
   "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
     "file": "_app/immutable/components/error.svelte-4b6d66b9.js",
@@ -87,17 +93,11 @@
       "_app/immutable/assets/_layout-f5077303.css"
     ]
   },
-  "_singletons-6cec3972.js": {
-    "file": "_app/immutable/chunks/singletons-6cec3972.js",
-    "imports": [
-      "_index-3546e6d8.js"
-    ]
-  },
   "_index-3546e6d8.js": {
     "file": "_app/immutable/chunks/index-3546e6d8.js"
   },
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-949968af.js",
+    "file": "_app/immutable/start-a11e381c.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -111,14 +111,14 @@
     ]
   },
   "src/routes/+page.svelte": {
-    "file": "_app/immutable/components/pages/_page.svelte-8ea475f4.js",
+    "file": "_app/immutable/components/pages/_page.svelte-baab5bf1.js",
     "src": "src/routes/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-3546e6d8.js"
     ],
     "css": [
-      "_app/immutable/assets/_page-93ad8583.css"
+      "_app/immutable/assets/_page-be37dfc0.css"
     ],
     "assets": [
       "_app/immutable/assets/btn_squircle_netflix-7c0af278.png",
