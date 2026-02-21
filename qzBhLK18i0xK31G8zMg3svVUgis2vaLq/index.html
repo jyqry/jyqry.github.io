@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <link rel="stylesheet" href="/fonts/SUIT.css" />
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: #f8f9fa;
+        font-family: 'SUIT', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+          Roboto, 'Helvetica Neue', Arial, sans-serif;
+      }
+      .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 60px 24px;
+        font-size: 16px;
+      }
+      .content {
+        max-width: 700px;
+        text-align: left;
+        word-break: keep-all;
+      }
+      .content h2 {
+        font-size: 1.5rem;
+        font-weight: 700;
+        margin: 2.5rem 0 0 0;
+      }
+      .content p {
+        font-size: 1.1rem;
+        margin: 1.3rem 0 0;
+        line-height: 1.8;
+      }
+      .content a {
+        color: #007bff;
+        text-decoration: none;
+      }
+      blockquote {
+        font-size: 1.1rem;
+        margin: 1rem 0 0;
+        padding: 0.2rem 0.2rem 0.2rem 1.5rem;
+        border-left: 2px solid #007bff;
+        line-height: 1.6;
+      }
+      i {
+        font-size: 1rem;
+        margin: 1rem 0 0;
+        line-height: 1.6;
+        opacity: 0.7;
+      }
+      section {
+        padding: 1rem 0 3rem 0;
+        border-top: 2px solid #d3d3d3;
+      }
+      section:first-child,
+      section.no-border {
+        border-top: none !important;
+      }
+
+      .turn-off-the-light-please {
+        width: 260px;
+        cursor: pointer;
+        border-radius: 6px;
+      }
+
+      body.dark {
+        background-color: rgb(33, 33, 33);
+        color: rgb(209, 209, 209);
+      }
+      body.dark section {
+        border-top: 2px solid #585858;
+      }
+      figure {
+        margin: 0 0 60px 0;
+      }
+      figcaption {
+        text-align: center;
+        font-size: 0.9rem;
+        opacity: 0.7;
+      }
+      body[class='dark'] figure.light {
+        display: none;
+      }
+      body:not([class='dark']) figure.dark {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="content">
+        <figure class="light">
+          <img
+            src="./1715557738001.png"
+            class="turn-off-the-light-please"
+            onclick="document.body.classList.add('dark');"
+          />
+          <figcaption>누르면 불이 꺼져요</figcaption>
+        </figure>
+        <figure class="dark">
+          <img
+            src="./1715603265001.png"
+            class="turn-off-the-light-please"
+            onclick="document.body.classList.remove('dark');"
+          />
+          <figcaption>누르면 불이 켜져요</figcaption>
+        </figure>
+      </div>
+      <div class="content">
+        <section class="no-border">
+          <p>
+            안녕하세요 치치입니다! 힐링페이퍼에서 제 20대의 반을 보내고, 만
+            5년의 근무 끝에 퇴사하게 되었습니다.
+          </p>
+          <p>
+            원래 5주년 스피치로 스탠드업 코미디를 준비했었는데.. 못해서 아쉽지만
+            퇴사 기념으로 원고라도 풀어봅니다.
+          </p>
+          <h2>가우초 농담</h2>
+          <p>
+            제가 라운지에 누워있는데, 가우초가 제 옆으로 와서는 "오 치치, 이
+            음악 좋네요. 어떤 아티스트에요?" 했습니다.<br />
+            제가 말했습니다.<br />
+            <br />
+            "가우초, 이건 음악이 아니라 빗썸 공사소리에요."
+          </p>
+          <h2>은퇴 농담</h2>
+          <p>
+            저는 고의 뒤를 이어 은퇴를 힐링페이퍼에서 하겠다고 선언했습니다.<br />
+            몇몇 분들은 제가 로또를 매주 구매했다는 것을 아실겁니다.
+          </p>
+          <h2>아버지 농담</h2>
+          <p>
+            지금와서 새삼스럽지만 저는 여기 힐페에 형제자매가 여럿 있습니다. 제
+            아버지이자 제 형제자매의 아버지 박일 원장님 손에서 탄생한
+            자녀들이지요.<br />제가 엄마 몰래 쌍꺼풀 수술을 하고 처음 집에 간
+            날이었어요. 엄마가 깜짝 놀라더니.<br />
+            <br />
+            치웅아. 나도 거기에서 해야겠다.<br />그렇게 제 어머니는 여러분과
+            형제자매가 되었습니다.
+          </p>
+          <blockquote>
+            하하하하<br />
+            <i>- 가우초 농담을 직접 들은 가우초</i>
+          </blockquote>
+          <blockquote>
+            개열받아<br />
+            <i>- 이 농담들을 먼저 들은 칼</i>
+          </blockquote>
+          <blockquote>
+            아 스바<br />
+            <i>- 이 농담들을 먼저 들은 안나</i>
+          </blockquote>
+        </section>
+        <section>
+          <p>
+            저는 운이 아주 좋게도 5년전에 강남언니에 합류해서 많은 과정을 함께할
+            수 있었습니다. 제가 합류했던 시기는 한창 우리의 미션과 비전에 대해서
+            논의하던 시기였어요. 우리가 어떤 미션과 비전을 향해 나아가야할지, 왜
+            설정해야 하는지, 그 와중에 비전과 미션 중 어떤 것이 상위개념인지
+            헷갈려서 갑론을박하고.. 다른 곳에 있어도 존중받는 우리가 왜 이곳에
+            모여있는지 이야기하던 그 때가 기억납니다.
+          </p>
+          <p>
+            5년 전의 저를 돌이켜보면 귀엽게 느껴질 정도로
+            <i>(실제로도 조금 귀여웠음)</i> 힐페는 제게 많은 것을 배우게
+            했습니다. 사실 제가 스스로 성장한 것이 아니라 극도로 솔직하고 투명한
+            정보공유 과정을 겪으며 자연스레 성장하는 흐름에 올라탔다는 생각도
+            들어요.
+          </p>
+          <p>
+            저는 여전히 힐링페이퍼의 많은 것들을 좋아합니다. 힐페가 일하는
+            방식과, 비즈니스와, 많은 문화와, 아주 넓은 라운지, 라포바를요.
+          </p>
+        </section>
+        <section>
+          <h2>그럼에도 퇴사를 하는 이유</h2>
+          <p>
+            저는 가끔 개발자가 백팩을 메고 계단에서 구를 때에는 노트북이 든
+            백팩을 지키고 몸으로 넘어져야 한다는 농담을 합니다. 부서진 내 뼈는
+            붙지만 부서진 메인보드는 붙지 않는다고요.
+          </p>
+          <p>
+            하지만 실제로 부서져보니 그냥 랩탑 하나 사는게 더 나을 것 같아요.
+            저는 우울불안장애로 휴직을 하게 되었고, 이를 계기로 제 삶을 돌아보고
+            발견하는 시간을 갖고자 퇴사하게 되었습니다.
+          </p>
+          <p>
+            저는 제 이야기를 여러분과 편하게 공유할 수 있을 만큼 많이
+            호전되었으니 걱정하지 않으셔도 됩니다. 여러분 덕분입니다.
+          </p>
+          <p>
+            제가 기쁠때나 슬플때나 함께 운동하고 게임해준 길드원 여러분께
+            감사드립니다. 제 얘기에 진심으로 대해준 저보다 먼저 비슷한 증상을
+            겪은 인생 슨배님들과 동지들에 감사드립니다. 상담 프로그램을 지원하고
+            운영해준 회사와 민아쌤에 감사드립니다. 마주치면 반갑게 인사해주신
+            모든 동료분들께 감사드립니다.
+          </p>
+        </section>
+        <section>
+          <h2>에이든은 다음 문단을 읽지 마시오.</h2>
+          <p>
+            저는 우리가 만약 미용의료가 아닌 다른 섹터의 문제를 해결하자고
+            결정하더라도 잘 해낼 것이라 믿습니다. 결국 제가 진짜 좋아한
+            힐링페이퍼는 법인이나 집단이나 비즈니스모델이 아니라 여러분
+            개개인이기 때문입니다. 그렇기에 저는 여러분들이 여러분들 개개인을
+            스스로, 그리고 서로 이해하고 사랑하시기를 소망합니다.
+          </p>
+          <p>
+            그리고 또 다른 사랑을 하시는 분은 요즘청첩장을 애용해주세요. 지인
+            할인 있습니다. <i>(상담/문의: 제인 사장님)</i>
+          </p>
+          <h2>에이든은 다음 문단을 꼭 읽으시오.</h2>
+          <p>저 미용의료 더 잘하고 싶어서 온 거 기억 하시죠? 😉</p>
+        </section>
+        <section>
+          <p>마지막으로, 최근 선물받은 책의 일부를 인용하여 붙입니다.</p>
+          <blockquote>
+            한 남자가 약속 장소를 향해 서둘러 운전해서 가는데, 앞에 가는 차가
+            거의 거북이 수준이었다. 경적을 울리고 헤드라이트를 깜빡여도 속도 낼
+            생각을 하지 않았다.<br /><br />
+
+            마침내 자제력을 잃고 화를 내려는 찰나, 차 뒤에 부착된 작은 스티커가
+            눈에 띄었다. <br /><br />
+
+            '장애인 운전자입니다. 조금만 참아 주세요.' <br /><br />
+
+            그 문구를 보는 순간 모든 것이 달라졌다. 남자는 마음이 차분해지고
+            조급함도 사라졌다. 오히려 그 차와 운전자를 보호해 주고 싶은 마음이
+            생겼다. 약속에 몇 분 늦게 도착하는 것이 더 이상 중요하지 않았다.
+            <br /><br />
+
+            그날 밤, 남자는 생각했다. 그 차에 스티커가 붙어 있지 않았다면
+            참을성을 발휘했을까? 빨리 비키라고 더 심하게 경적을 울리지 않았을까?
+            왜 우리는 사람에 대해서도 각자의 등에 붙어있는 투명한 스티커를
+            알아보지 못한 채 성급히 판단하는가? 이를테면 이런 스티커들 말이다.
+            <br /><br />
+
+            '일자리를 잃었어요.' <br />
+            '병과 싸우고 있어요.' <br />
+            '이혼의 상처로 아파요.' <br />
+            '불면증에 시달리고 있어요.' <br />
+            '자존감이 바닥이에요.' <br />
+            '그저 껴안아 줄 사람이 필요해요.' <br />
+            '방세를 못 내고 있어요.'<br />
+            <br />
+            우리 모두는 보이지 않는 스티커를 등에 붙인 고독한 전사이다. 그 등은
+            어떤 책에도 담을 수 없는 이야기를 지고 다닌다. 따라서 서로에 대해
+            '조금 더 참고' 친절해야 한다.
+          </blockquote>
+
+          <p>
+            힘겨운 일도 많았지만 오랜시간 여러분과 함께 일할 수 있어서
+            영광이었습니다. 많이 배웠습니다. 행복했습니다. 행복하시고
+            건강하세요.
+          </p>
+        </section>
+      </div>
+    </div>
+  </body>
+</html>
